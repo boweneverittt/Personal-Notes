@@ -5,6 +5,12 @@ Relevancy...
 
 ### Case Studies
 FF 7 Screenshots / Elden Ring
+![[Pasted image 20220329114536.png]]
+Ring: single quad, circular mesh foot effect
+Particle: single quad
+Damage ring: single quad 
+
+Effects utilize different *Blending Modes* -> how effect blends with background
 
 ### Design
 Examples (Unity / Home Renderer)

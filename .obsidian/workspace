@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home/Math/Vectors/Vector Rotation.md",
+            "file": "School/Algebra 2/Sequences and Series.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Math/Vectors/Vector Rotation.md",
+                "file": "School/Algebra 2/Sequences and Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3bd6624661ba7443",
   "lastOpenFiles": [
-    "Home/Math/Vectors/Vector Rotation.md",
-    "Home/Math/Quaternions.md",
-    "Home/Math/Rigid Body Kinematics.md",
-    "School/Knowledge Managment/Engineering Note Outline.md",
+    "School/Algebra 2/Sequences and Series.md",
     "School/Knowledge Managment/School Note Outline.md",
-    "School/Knowledge Managment/Recreational Note Outline.md",
+    "Home/Math/Vectors/Vector Rotation.md",
+    "Home/Graphics/Ray-tracer.md",
     "Home/Graphics/Shaders.md",
-    "Home/Engineering/GNC/Scout E Landing Sim.md",
-    "Home/Engineering/GNC/Guidance Fork.md",
-    "Home/Engineering/GNC/Kalman Filter.md"
+    "Home/Graphics/Vulkan Renderer.md",
+    "Home/Graphics/Fundamentals.md",
+    "Home/Graphics/Case Study Images/Pasted image 20220329114536.png",
+    "School/Knowledge Managment/Engineering Note Outline.md",
+    "Pasted image 20220329114144.png.md"
   ]
 }

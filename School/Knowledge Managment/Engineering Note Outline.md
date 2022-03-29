@@ -2,9 +2,9 @@
 
 ### Summary
 
-### Analysis
+### Design / Analysis
 
-### Exercises / Practice
+### Practice
 
 ### Resources
 - Articles

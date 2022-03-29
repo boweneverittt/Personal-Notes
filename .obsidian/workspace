@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home/Math/Vectors/Vectors.md",
+            "file": "Home/Math/Vectors/Vector Rotation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Math/Vectors/Vectors.md",
+                "file": "Home/Math/Vectors/Vector Rotation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,8 @@
   },
   "active": "3bd6624661ba7443",
   "lastOpenFiles": [
-    "Home/Math/Vectors/Vectors.md",
+    "Home/Math/Vectors/Vector Rotation.md",
+    "School/Knowledge Managment/Engineering Note Outline.md",
     "Home/Math/Quaternions.md",
     "Home/Math/Rigid Body Kinematics.md",
     "School/Knowledge Managment/School Note Outline.md",
@@ -97,7 +98,6 @@
     "Home/Engineering/GNC/Scout E Landing Sim.md",
     "Home/Engineering/GNC/Guidance Fork.md",
     "Home/Engineering/GNC/Kalman Filter.md",
-    "Home/Engineering/GNC/PID.md",
-    "Home/Rockets/RocketOS.md"
+    "Home/Engineering/GNC/PID.md"
   ]
 }

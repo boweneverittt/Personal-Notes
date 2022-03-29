@@ -7,8 +7,12 @@
         "id": "3bd6624661ba7443",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Home/Math/Vectors/Vectors.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home/Math/Vectors/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,13 +89,15 @@
   },
   "active": "3bd6624661ba7443",
   "lastOpenFiles": [
-    "Bio/Immune-system/Main.md",
-    "Home/Rockets/Cerberus/Cerberus Design.md",
-    "Home/Engineering/GNC/RocketOS.md",
-    "Home/Engineering/GNC/Quats.md",
-    "Home/Engineering/GNC/Rigid Body Kinematics.md",
-    "Home/Engineering/GNC/PID Tuning.md",
-    "README.md",
-    "Engineering.md"
+    "Home/Math/Vectors/Vectors.md",
+    "Home/Math/Quaternions.md",
+    "Home/Math/Rigid Body Kinematics.md",
+    "School/Knowledge Managment/School Note Outline.md",
+    "Home/Graphics/Shaders.md",
+    "Home/Engineering/GNC/Scout E Landing Sim.md",
+    "Home/Engineering/GNC/Guidance Fork.md",
+    "Home/Engineering/GNC/Kalman Filter.md",
+    "Home/Engineering/GNC/PID.md",
+    "Home/Rockets/RocketOS.md"
   ]
 }

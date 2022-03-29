@@ -1,22 +1,79 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Home/Engineering/GNC",
+      "color": {
+        "a": 1,
+        "rgb": 15348788
+      }
+    },
+    {
+      "query": "path:\"Home/Engineering/Electrical Engineering\"",
+      "color": {
+        "a": 1,
+        "rgb": 14716754
+      }
+    },
+    {
+      "query": "path:Home/Rockets",
+      "color": {
+        "a": 1,
+        "rgb": 14147666
+      }
+    },
+    {
+      "query": "path:Home/Graphics",
+      "color": {
+        "a": 1,
+        "rgb": 1496086
+      }
+    },
+    {
+      "query": "path:\"School/Freshman (2021-2022)\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Home/Knowledge Managment\"",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Home/Engineering/Math",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": 1.5,
+  "nodeSizeMultiplier": 1.06348314606742,
+  "lineSizeMultiplier": 0.746910112359551,
+  "collapse-forces": false,
+  "centerStrength": 0.485119047619048,
+  "repelStrength": 10.297619047619,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 2.861620172407215,
-  "close": false
+  "linkDistance": 72,
+  "scale": 2.4194550846467306,
+  "close": true
 }

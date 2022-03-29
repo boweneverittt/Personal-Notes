@@ -7,7 +7,7 @@ Rotating vectors along the unit circle using angle theta
 Notability PDF:
 
 ### Practice
-Python program visualizing vetor rotation:
+Python program visualizing vector rotation:
 
 
 ### Resources

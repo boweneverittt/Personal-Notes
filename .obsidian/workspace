@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "3eec81dec083b8c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bd6624661ba7443",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ffd7adfbe0ffa7a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f94d3cb0fc8237b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2584a190837a3c50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a0acc23900d1120",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243
+  },
+  "right": {
+    "id": "2c91286c7eb1a00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "91c108dd77983367",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3aa7e896552be1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3bd6624661ba7443",
+  "lastOpenFiles": [
+    "Bio/Immune-system/Main.md",
+    "Home/Rockets/Cerberus/Cerberus Design.md",
+    "Home/Engineering/GNC/RocketOS.md",
+    "Home/Engineering/GNC/Quats.md",
+    "Home/Engineering/GNC/Rigid Body Kinematics.md",
+    "Home/Engineering/GNC/PID Tuning.md",
+    "README.md",
+    "Engineering.md"
+  ]
+}

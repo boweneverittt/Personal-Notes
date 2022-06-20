@@ -16,6 +16,11 @@ Effects utilize different *Blending Modes* -> how effect blends with background
 Examples (Unity / Home Renderer)
 Languages
 
+### Practice
+##### Toon 3d shader (tiny tinas wonderlands)
+
+
+##### Healthbar shader (tiny tinas wonderlands)
 
 ### Resources
 - Physically Based Rendering

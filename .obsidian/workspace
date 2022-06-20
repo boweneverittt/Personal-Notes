@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/Algebra 2/Sequences and Series.md",
+            "file": "Home/Projects/Synth/Synthesizer Project.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 218
   },
   "right": {
     "id": "2c91286c7eb1a00f",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Algebra 2/Sequences and Series.md",
+                "file": "Home/Projects/Synth/Synthesizer Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "3bd6624661ba7443",
   "lastOpenFiles": [
-    "School/Algebra 2/Sequences and Series.md",
-    "School/Knowledge Managment/School Note Outline.md",
-    "Home/Math/Vectors/Vector Rotation.md",
-    "Home/Graphics/Ray-tracer.md",
-    "Home/Graphics/Shaders.md",
-    "Home/Graphics/Vulkan Renderer.md",
-    "Home/Graphics/Fundamentals.md",
-    "Home/Graphics/Case Study Images/Pasted image 20220329114536.png",
-    "School/Knowledge Managment/Engineering Note Outline.md",
-    "Pasted image 20220329114144.png.md"
+    "Home/Projects/Synth/Synthesizer Project.md",
+    "Home/Projects/Actuator Feedback Control/Actuator.md",
+    "Home/Projects/Sony Scopeman/Scopeman.md",
+    "Home/Projects/DIY IMU/IMU.md",
+    "Home/Heliospace/Hexapod/Overview.md",
+    "Home/Heliospace/Hexapod/Electronics.md",
+    "Home/Heliospace/Hexapod/CAD.md",
+    "Home/Heliospace/Orbital/Basic Orbital Mechanics.md",
+    "Home/Heliospace/Orbital/Atmospheric Levels.md",
+    "School/Knowledge Managment/Engineering Note Outline.md"
   ]
 }

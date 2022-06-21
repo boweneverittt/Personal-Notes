@@ -1,4 +1,5 @@
 # Synthesizer
+**"Purple Bee"**
 Custom designed music synth embedded in speaker?
 
 Short internal amplifier mess around with basic breadboard thing

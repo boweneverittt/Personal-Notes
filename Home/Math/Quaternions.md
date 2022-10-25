@@ -23,3 +23,4 @@ Uq = q/||q||
 ![clipboard.png](inkdrop://file:7ecrDT4im)
 *euler angles is rotation in deg around x y z
 axis angle is rotation w around vector x y z*
+
